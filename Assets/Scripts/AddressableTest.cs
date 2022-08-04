@@ -5,7 +5,7 @@ using UnityEngine.AddressableAssets;
 
 public class AddressableTest : MonoBehaviour
 {
-    public string Name;
+    public string Name = "Cube";
     private List<GameObject> lst = new List<GameObject>();
     // Start is called before the first frame update
     async void Start()
