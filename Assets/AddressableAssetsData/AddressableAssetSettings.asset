@@ -17,7 +17,7 @@ MonoBehaviour:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -34,9 +34,9 @@ MonoBehaviour:
   m_MonoScriptBundleNaming: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: d974855a583fb0142a1fefb4806b319f
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 82011e56b1cc24442b66d670ca8abc99
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: 
@@ -78,7 +78,7 @@ MonoBehaviour:
       - m_Id: d974855a583fb0142a1fefb4806b319f
         m_Value: ServerData/[BuildTarget]
       - m_Id: 82011e56b1cc24442b66d670ca8abc99
-        m_Value: http://192.168.3.36/StandaloneWindows64/
+        m_Value: http://192.168.3.36/
     m_ProfileEntryNames:
     - m_Id: 3928c1e39358cb84eb3c9c8c58d1ebdf
       m_Name: BuildTarget
@@ -133,7 +133,7 @@ MonoBehaviour:
           m_Key: ContentRoot
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.Boolean
-          m_Data: True
+          m_Data: False
           m_Key: IsEnabled
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.String
